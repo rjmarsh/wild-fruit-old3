@@ -1,0 +1,11 @@
+{
+  "FS": {
+    "environment": "integration",
+    "appKey": "a02j000000LrqV5AAJ"
+  },
+  "session": {
+    "cookie": {
+      "secure": false
+    }
+  }
+}
